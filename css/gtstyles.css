@@ -1,3 +1,7 @@
 .gt-card-top {
     padding: 30px;
 }
+
+.gt-card-shadow:hover {
+    box-shadow: 10px 10px 5px lightgray;
+}
